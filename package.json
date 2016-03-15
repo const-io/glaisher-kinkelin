@@ -1,7 +1,7 @@
 {
-  "name": "const-glaisher-klinkelin",
+  "name": "const-glaisher-kinkelin",
   "version": "0.0.0",
-  "description": "Glaisher-Klinkelin constant.",
+  "description": "Glaisher-Kinkelin constant.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"
@@ -23,7 +23,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/const-io/glaisher-klinkelin.git"
+    "url": "git://github.com/const-io/glaisher-kinkelin.git"
   },
   "keywords": [
     "const-io",
@@ -33,9 +33,9 @@
     "compute.io",
     "compute",
     "computation",
-    "glaisher-klinkelin",
+    "glaisher-kinkelin",
     "glaisher",
-    "klinkelin",
+    "kinkelin",
     "riemann",
     "zeta",
     "mathematics",
@@ -47,7 +47,7 @@
     "number"
   ],
   "bugs": {
-    "url": "https://github.com/const-io/glaisher-klinkelin/issues"
+    "url": "https://github.com/const-io/glaisher-kinkelin/issues"
   },
   "dependencies": {},
   "devDependencies": {

@@ -1,20 +1,20 @@
-Glaisher-Klinkelin Constant
+Glaisher-Kinkelin Constant
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][build-image]][build-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> [Glaisher-Klinkelin][glaisher-constant] constant.
+> [Glaisher-Kinkelin][glaisher-constant] constant.
 
-[Glaisher-Klinkelin][glaisher-constant] constant is defined as
+[Glaisher-Kinkelin][glaisher-constant] constant is defined as
 
-<div class="equation" align="center" data-raw-text="A = \lim_{n\to\infty} \frac{K(n + 1)}{n^{n^2/2 + n/2 + 1/12}e^{-n^2/4}}" data-equation="eq:glaisher_klinkelin_constant">
-	<img src="https://cdn.rawgit.com/const-io/glaisher-klinkelin/979ab7b20f0acf814018e5f63511565f86aa6b5c/docs/img/glaisher.svg" alt="Glaisher-Klinkelin constant">
+<div class="equation" align="center" data-raw-text="A = \lim_{n\to\infty} \frac{K(n + 1)}{n^{n^2/2 + n/2 + 1/12}e^{-n^2/4}}" data-equation="eq:glaisher_kinkelin_constant">
+	<img src="https://cdn.rawgit.com/const-io/glaisher-kinkelin/979ab7b20f0acf814018e5f63511565f86aa6b5c/docs/img/glaisher.svg" alt="Glaisher-Kinkelin constant">
 	<br>
 </div>
 
 where
 
 <div class="equation" align="center" data-raw-text="K(n) = \prod{k=1}^{n-1} k^k" data-equation="eq:k_function">
-	<img src="https://cdn.rawgit.com/const-io/glaisher-klinkelin/d18262b41c15a93644d7d91061a8b27d4db555a1/docs/img/k_function.svg" alt="K-function">
+	<img src="https://cdn.rawgit.com/const-io/glaisher-kinkelin/d18262b41c15a93644d7d91061a8b27d4db555a1/docs/img/k_function.svg" alt="K-function">
 	<br>
 </div>
 
@@ -24,19 +24,19 @@ is the [K-function][k-function].
 ## Installation
 
 ``` bash
-$ npm install const-glaisher-klinkelin
+$ npm install const-glaisher-kinkelin
 ```
 
 
 ## Usage
 
 ``` javascript
-var A = require( 'const-glaisher-klinkelin' );
+var A = require( 'const-glaisher-kinkelin' );
 ```
 
 #### A
 
-The [Glaisher-Klinkelin][glaisher-constant] constant.
+The [Glaisher-Kinkelin][glaisher-constant] constant.
 
 ``` javascript
 A === 1.2824271291006226;
@@ -46,7 +46,7 @@ A === 1.2824271291006226;
 ## Examples
 
 ``` javascript
-var A = require( 'const-glaisher-klinkelin' );
+var A = require( 'const-glaisher-kinkelin' );
 
 console.log( 'Glaisher\'s constant: %d', A );
 // returns 1.2824271291006226
@@ -116,23 +116,23 @@ $ make view-browser-tests
 Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 
 
-[npm-image]: http://img.shields.io/npm/v/const-glaisher-klinkelin.svg
-[npm-url]: https://npmjs.org/package/const-glaisher-klinkelin
+[npm-image]: http://img.shields.io/npm/v/const-glaisher-kinkelin.svg
+[npm-url]: https://npmjs.org/package/const-glaisher-kinkelin
 
-[build-image]: http://img.shields.io/travis/const-io/glaisher-klinkelin/master.svg
-[build-url]: https://travis-ci.org/const-io/glaisher-klinkelin
+[build-image]: http://img.shields.io/travis/const-io/glaisher-kinkelin/master.svg
+[build-url]: https://travis-ci.org/const-io/glaisher-kinkelin
 
-[coverage-image]: https://img.shields.io/codecov/c/github/const-io/glaisher-klinkelin/master.svg
-[coverage-url]: https://codecov.io/github/const-io/glaisher-klinkelin?branch=master
+[coverage-image]: https://img.shields.io/codecov/c/github/const-io/glaisher-kinkelin/master.svg
+[coverage-url]: https://codecov.io/github/const-io/glaisher-kinkelin?branch=master
 
-[dependencies-image]: http://img.shields.io/david/const-io/glaisher-klinkelin.svg
-[dependencies-url]: https://david-dm.org/const-io/glaisher-klinkelin
+[dependencies-image]: http://img.shields.io/david/const-io/glaisher-kinkelin.svg
+[dependencies-url]: https://david-dm.org/const-io/glaisher-kinkelin
 
-[dev-dependencies-image]: http://img.shields.io/david/dev/const-io/glaisher-klinkelin.svg
-[dev-dependencies-url]: https://david-dm.org/dev/const-io/glaisher-klinkelin
+[dev-dependencies-image]: http://img.shields.io/david/dev/const-io/glaisher-kinkelin.svg
+[dev-dependencies-url]: https://david-dm.org/dev/const-io/glaisher-kinkelin
 
-[github-issues-image]: http://img.shields.io/github/issues/const-io/glaisher-klinkelin.svg
-[github-issues-url]: https://github.com/const-io/glaisher-klinkelin/issues
+[github-issues-image]: http://img.shields.io/github/issues/const-io/glaisher-kinkelin.svg
+[github-issues-url]: https://github.com/const-io/glaisher-kinkelin/issues
 
 [tape]: https://github.com/substack/tape
 [istanbul]: https://github.com/gotwarlost/istanbul
