@@ -14,7 +14,7 @@ Glaisher-Kinkelin Constant
 where
 
 <div class="equation" align="center" data-raw-text="K(n) = \prod_{k=1}^{n-1} k^k" data-equation="eq:k_function">
-	<img src="https://cdn.rawgit.com/const-io/glaisher-kinkelin/d18262b41c15a93644d7d91061a8b27d4db555a1/docs/img/k_function.svg" alt="K-function">
+	<img src="https://cdn.rawgit.com/const-io/glaisher-kinkelin/73b3d2f5eedfe5269bb79f228967e20817bf4663/docs/img/k_function.svg" alt="K-function">
 	<br>
 </div>
 
