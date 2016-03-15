@@ -13,10 +13,12 @@ Glaisher-Klinkelin Constant
 
 where
 
-<div class="equation" align="center" data-raw-text="K(n) = \prod{k=1}^{n-1} k^k" data-equation="eq:K_function">
-	<img src="" alt="K function">
+<div class="equation" align="center" data-raw-text="K(n) = \prod{k=1}^{n-1} k^k" data-equation="eq:k_function">
+	<img src="https://cdn.rawgit.com/const-io/glaisher-klinkelin/d18262b41c15a93644d7d91061a8b27d4db555a1/docs/img/k_function.svg" alt="K-function">
 	<br>
 </div>
+
+is the [K-function][k-function].
 
 
 ## Installation
@@ -137,4 +139,5 @@ Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 [testling]: https://ci.testling.com
 
 [glaisher-constant]: https://en.wikipedia.org/wiki/Glaisher%E2%80%93Kinkelin_constant
+[k-function]: https://en.wikipedia.org/wiki/K-function
 [compute-io]: https://github.com/compute-io
