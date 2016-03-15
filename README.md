@@ -6,8 +6,15 @@ Glaisher-Klinkelin Constant
 
 [Glaisher-Klinkelin][glaisher-constant] constant is defined as
 
-<div class="equation" align="center" data-raw-text="" data-equation="eq:glaisher_klinkelin_constant">
-	<img src="" alt="Glaisher-Klinkelin constant">
+<div class="equation" align="center" data-raw-text="A = \lim_{n\to\infty} \frac{K(n + 1)}{n^{n^2/2 + n/2 + 1/12}e^{-n^2/4}}" data-equation="eq:glaisher_klinkelin_constant">
+	<img src="https://cdn.rawgit.com/const-io/glaisher-klinkelin/979ab7b20f0acf814018e5f63511565f86aa6b5c/docs/img/glaisher.svg" alt="Glaisher-Klinkelin constant">
+	<br>
+</div>
+
+where
+
+<div class="equation" align="center" data-raw-text="K(n) = \prod{k=1}^{n-1} k^k" data-equation="eq:K_function">
+	<img src="" alt="K function">
 	<br>
 </div>
 
